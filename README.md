@@ -17,11 +17,5 @@ Supporting scripts and functions
 Requirements
 Python 3.x
 pandas, numpy, matplotlib, seaborn, scikit-learn
-Install dependencies with:
 
-Usage
-Clone the repository:
-Open the notebook in Jupyter or VS Code.
-Run the cells to reproduce the analysis.
-Contributing
-Feel free to fork the repo, open issues, or submit pull requests for improvements or new projects.
+
