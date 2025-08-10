@@ -1,5 +1,5 @@
 # AI-projects
-This repository contains a collection of AI and machine learning projects, including data analysis, model training, and evaluation. Each project is organized in its own folder and includes code, notebooks, and documentation.
+This repository contains a collection of AI and machine learning projects, including data analysis, model training, and evaluation. Each project is organized in its own folder.
 
 ## Project: Student Performance Prediction
 This project analyzes factors affecting student exam scores using regression models. It demonstrates data preprocessing, outlier removal, feature engineering, and model comparison (linear and polynomial regression).
