@@ -24,17 +24,28 @@ The project uses the Student Performance Factors dataset from Kaggle. link: http
 ## Forest Cover Type Prediction
 This project uses machine learning techniques to predict forest cover types based on cartographic variables. The dataset includes features such as elevation, soil type, and wilderness area, and the goal is to classify the type of forest cover present.
 
-Features
-Data preprocessing and cleaning
-Exploratory data analysis and visualization
-Feature engineering
-Model training and evaluation (e.g., Random Forest, Decision Tree, etc.)
-Performance metrics and comparison
+### Features
 
-Files
-forest_model.ipynb: Main Jupyter notebook containing the analysis, modeling, and results
-Data files (CSV) used for training and testing models
-Supporting scripts and utility functions
+- Data preprocessing and cleaning
+- Exploratory data analysis and visualization
+- Feature engineering
+- Model training and evaluation (e.g., Random Forest, Decision Tree, etc.)
+- Performance metrics and comparison
 
-Dataset
+### Files
+
+- `forest_model.ipynb`: Main Jupyter notebook containing the analysis, modeling, and results
+- Data files (CSV) used for training and testing models
+- Supporting scripts and utility functions
+
+### Requirements
+
+- Python 3.x
+- pandas, numpy, matplotlib, seaborn, scikit-learn
+
+Install dependencies with:
+'''bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+### Dataset
 The project uses the Forest CoverType dataset from the UCI Machine Learning Repository. link: https://archive.ics.uci.edu/dataset/31/covertype
