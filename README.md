@@ -18,10 +18,6 @@ This project analyzes factors affecting student exam scores using regression mod
 - Data files (CSV) used for training and testing models
 - Supporting scripts and functions
 
-### Requirements
-- Python 3.x
-- pandas, numpy, matplotlib, seaborn, scikit-learn
-
 ### Dataset
 The project uses the Student Performance Factors dataset from Kaggle. link: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
 
@@ -42,15 +38,15 @@ This project uses machine learning techniques to predict forest cover types base
 - Data files (CSV) used for training and testing models
 - Supporting scripts and utility functions
 
-### Requirements
+### Dataset
+The project uses the Forest CoverType dataset from the UCI Machine Learning Repository. link: https://archive.ics.uci.edu/dataset/31/covertype
+
+## Requirements for any of the projects
 
 - Python 3.x
 - pandas, numpy, matplotlib, seaborn, scikit-learn
-
+  
 Install dependencies with:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-
-### Dataset
-The project uses the Forest CoverType dataset from the UCI Machine Learning Repository. link: https://archive.ics.uci.edu/dataset/31/covertype
