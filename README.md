@@ -44,7 +44,7 @@ The project uses the Forest CoverType dataset from the UCI Machine Learning Repo
 ## Project: Loan Approval Prediction
 This project uses machine learning to predict loan approval status based on applicant and financial features. It demonstrates data preprocessing, outlier removal, encoding, model training, and evaluation using both Logistic Regression and Decision Tree classifiers. SMOTE is used to address class imbalance.
 
-## Features
+### Features
 
 - Data cleaning and preprocessing
 - Outlier detection and removal
@@ -55,13 +55,16 @@ This project uses machine learning to predict loan approval status based on appl
 - Model evaluation with classification reports and accuracy metrics
 - Overfitting checks
 
-## Files
+### Files
 
 - `loan_pred_model.ipynb`: Main Jupyter notebook for the loan approval prediction workflow
 - Data files (CSV) used for training and testing models
 - Supporting scripts and utility functions
 
-## Additional requirements for this project
+### Dataset
+The project uses a loan approval dataset containing applicant information and loan status. link: https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data
+
+### Additional requirements for this project
 -imblearn
 
 Install it with:
