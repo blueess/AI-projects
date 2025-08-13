@@ -20,6 +20,7 @@ This project analyzes factors affecting student exam scores using regression mod
 
 ### Dataset
 The project uses the Student Performance Factors dataset from Kaggle.
+
 Link: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
 
 ## Project: Forest Cover Type Prediction
@@ -41,6 +42,7 @@ This project uses machine learning techniques to predict forest cover types base
 
 ### Dataset
 The project uses the Forest CoverType dataset from the UCI Machine Learning Repository.
+
 Link: https://archive.ics.uci.edu/dataset/31/covertype
 
 ## Project: Loan Approval Prediction
