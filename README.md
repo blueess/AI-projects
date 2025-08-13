@@ -21,7 +21,7 @@ This project analyzes factors affecting student exam scores using regression mod
 ### Dataset
 The project uses the Student Performance Factors dataset from Kaggle. link: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
 
-## Forest Cover Type Prediction
+## Project: Forest Cover Type Prediction
 This project uses machine learning techniques to predict forest cover types based on cartographic variables. The dataset includes features such as elevation, soil type, and wilderness area, and the goal is to classify the type of forest cover present.
 
 ### Features
