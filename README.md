@@ -65,10 +65,11 @@ This project uses machine learning to predict loan approval status based on appl
 
 ### Dataset
 The project uses a loan approval dataset containing applicant information and loan status.
+
 Link: https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data
 
 ### Additional requirements for this project
--imblearn
+- imblearn
 
 Install it with:
 ```bash
