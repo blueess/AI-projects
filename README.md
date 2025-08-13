@@ -41,6 +41,34 @@ This project uses machine learning techniques to predict forest cover types base
 ### Dataset
 The project uses the Forest CoverType dataset from the UCI Machine Learning Repository. link: https://archive.ics.uci.edu/dataset/31/covertype
 
+## Project: Loan Approval Prediction
+This project uses machine learning to predict loan approval status based on applicant and financial features. It demonstrates data preprocessing, outlier removal, encoding, model training, and evaluation using both Logistic Regression and Decision Tree classifiers. SMOTE is used to address class imbalance.
+
+## Features
+
+- Data cleaning and preprocessing
+- Outlier detection and removal
+- Label encoding for categorical variables
+- Feature scaling
+- Model training (Logistic Regression, Decision Tree)
+- Handling class imbalance with SMOTE
+- Model evaluation with classification reports and accuracy metrics
+- Overfitting checks
+
+## Files
+
+- `loan_pred_model.ipynb`: Main Jupyter notebook for the loan approval prediction workflow
+- Data files (CSV) used for training and testing models
+- Supporting scripts and utility functions
+
+## Additional requirements for this project
+-imblearn
+
+Install it with:
+```bash
+pip install imblearn
+```
+
 ## Requirements for any of the projects
 
 - Python 3.x
