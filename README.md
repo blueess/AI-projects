@@ -19,7 +19,8 @@ This project analyzes factors affecting student exam scores using regression mod
 - Supporting scripts and functions
 
 ### Dataset
-The project uses the Student Performance Factors dataset from Kaggle. link: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
+The project uses the Student Performance Factors dataset from Kaggle.
+Link: https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
 
 ## Project: Forest Cover Type Prediction
 This project uses machine learning techniques to predict forest cover types based on cartographic variables. The dataset includes features such as elevation, soil type, and wilderness area, and the goal is to classify the type of forest cover present.
@@ -39,7 +40,8 @@ This project uses machine learning techniques to predict forest cover types base
 - Supporting scripts and utility functions
 
 ### Dataset
-The project uses the Forest CoverType dataset from the UCI Machine Learning Repository. link: https://archive.ics.uci.edu/dataset/31/covertype
+The project uses the Forest CoverType dataset from the UCI Machine Learning Repository.
+Link: https://archive.ics.uci.edu/dataset/31/covertype
 
 ## Project: Loan Approval Prediction
 This project uses machine learning to predict loan approval status based on applicant and financial features. It demonstrates data preprocessing, outlier removal, encoding, model training, and evaluation using both Logistic Regression and Decision Tree classifiers. SMOTE is used to address class imbalance.
@@ -62,7 +64,8 @@ This project uses machine learning to predict loan approval status based on appl
 - Supporting scripts and utility functions
 
 ### Dataset
-The project uses a loan approval dataset containing applicant information and loan status. link: https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data
+The project uses a loan approval dataset containing applicant information and loan status.
+Link: https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data
 
 ### Additional requirements for this project
 -imblearn
