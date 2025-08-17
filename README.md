@@ -66,7 +66,7 @@ This project uses machine learning to predict loan approval status based on appl
 - Supporting scripts and utility functions
 
 ### Dataset
-The project uses a loan approval dataset containing applicant information and loan status.
+The project uses a loan approval dataset containing applicant information and loan status from Kaggle.
 
 Link: https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data
 
@@ -77,6 +77,30 @@ Install it with:
 ```bash
 pip install imblearn
 ```
+
+## Prjoect : Sales Forecasting
+This project applies machine learning techniques to forecast sales based on historical data and relevant features. It covers data preprocessing, exploratory analysis, feature engineering, model training, and evaluation.
+
+### Features
+
+- Data cleaning and preprocessing
+- Exploratory data analysis and visualization
+- Feature engineering
+- Time series and regression modeling
+- Model evaluation with error metrics
+
+### Files
+
+- `sales.ipynb`: Main Jupyter notebook for the sales forecasting workflow
+- Data files (CSV) used for training and testing models
+- Supporting scripts and utility functions
+
+### Dataset
+The project uses a sales dataset containing historical sales records and related features from Kaggle.
+
+Link: 
+https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
+
 
 ## Requirements for any of the projects
 
