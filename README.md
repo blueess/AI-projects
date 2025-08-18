@@ -101,6 +101,43 @@ The project uses a sales dataset containing historical sales records and related
 Link: 
 https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
 
+## Project: Traffic Sign Recognition
+
+### Features
+
+- Upload traffic sign images (jpg, jpeg, png)
+- Automatic image preprocessing for model input
+- Prediction of traffic sign class using a Keras model
+- Sidebar instructions and accuracy disclaimer
+- Clean, easy-to-use interface
+
+### Files
+
+- `traffic_model.ipynb` : The notebook that the model was built in
+- `app.py`: Streamlit web app for traffic sign recognition
+- `traffic_sign_model.keras`: Pre-trained Keras model for traffic sign classification
+- Supporting files (requirements.txt, README.md, etc.)
+
+### Dataset
+This project uses the GTSRB dataset from Kaggle
+
+Link: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data
+
+### Additional requirements for this project
+- streamlit
+- pillow
+- tensorflow
+
+Install dependencies with:
+```bash
+pip install streamlit pillow tensorflow
+```
+### Run the app : 
+```bash
+streamlit run app.py
+```
+Disclaimer
+The model's predictions may not be highly accurate. Please use results with caution.
 
 ## Requirements for any of the projects
 
