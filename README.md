@@ -132,7 +132,7 @@ Install dependencies with:
 ```bash
 pip install streamlit pillow tensorflow
 ```
-### Run the app : 
+Run the app : 
 ```bash
 streamlit run app.py
 ```
